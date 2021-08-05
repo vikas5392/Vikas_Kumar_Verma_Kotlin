@@ -1,0 +1,4 @@
+com/training/image/MainActivity.java
+ com.training.image.MainActivity
+com/training/image/BuildConfig.java
+ com.training.image.BuildConfig
